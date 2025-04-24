@@ -1,6 +1,6 @@
 # 🛒 MyShop – Full-Stack eCommerce Application
 
-**MyShop** is a modern, scalable eCommerce platform built to provide users with a seamless online shopping experience. This project features secure user authentication, dynamic product listings, a shopping cart, admin controls, and integrated payment functionality.
+**QuickKart** is a modern, scalable eCommerce platform built to provide users with a seamless online shopping experience. This project features secure user authentication, dynamic product listings, a shopping cart, admin controls, and integrated payment functionality.
 
 ---
 
