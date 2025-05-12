@@ -11,7 +11,7 @@
 - 🛒 Add to cart, update quantity, and checkout flow
 - 📦 Order management for users and admins
 - 🛠️ Admin dashboard for product, user, and order management
-- 💳 Payment gateway integration (e.g., Stripe/PayPal)
+- 💳 Payment gateway integration (e.g., Stripe)
 - 📱 Responsive design – mobile-first approach
 
 ---
@@ -27,7 +27,7 @@
 - Node.js + Express.js
 - MongoDB 
 - JWT Authentication
--  S3 for image uploads
+- S3 for image uploads
 
 ### 🧪 DevOps & Deployment
 - Dockerized app
@@ -43,7 +43,7 @@
 - Node.js & npm
 - MongoDB 
 - React
-- Docker (optional)
+- Docker
 
 ### Clone & Install
 ```bash
