@@ -6,7 +6,7 @@
 
 ## 🚀 Features
 
-- 🔐 User authentication and authorization (JWT/OAuth)
+- 🔐 User authentication and authorization (JWT)
 - 🛍️ Browse, search, and filter products
 - 🛒 Add to cart, update quantity, and checkout flow
 - 📦 Order management for users and admins
