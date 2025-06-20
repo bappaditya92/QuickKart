@@ -22,6 +22,7 @@ const Dashboard = () => {
           <img src={userImg} alt="User" />
         </div>
 
+
         <section className="widget-container">
           <WidgetItem
             percent={40}
