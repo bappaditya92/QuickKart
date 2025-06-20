@@ -1,7 +1,8 @@
+import React from 'react'
 
 const Cart = () => {
   return (
-    <div>cart</div>
+    <div>This is from Cart page</div>
   )
 }
 
