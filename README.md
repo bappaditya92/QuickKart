@@ -23,7 +23,6 @@
 - Redux Toolkit,Context API, RTK Query
 - Tailwind CSS
 
-
 ### ⚙️ Backend
 - Node.js + Express.js
 - MongoDB 
