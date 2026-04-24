@@ -26,6 +26,7 @@
 ### ⚙️ Backend
 - Spring Boot
 - Spring Data JPA
+- Hibernate
 - PostgreSQL
 - MySQL 
 - JWT Authentication
