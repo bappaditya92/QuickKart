@@ -26,7 +26,8 @@
 ### ⚙️ Backend
 - Spring Boot
 - Spring Data JPA
-- PostgreSQL 
+- PostgreSQL
+- MySQL 
 - JWT Authentication
 - S3 for image uploads
 - Spring AI
