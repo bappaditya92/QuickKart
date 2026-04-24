@@ -24,11 +24,13 @@
 - Tailwind CSS
 
 ### ⚙️ Backend
-- Node.js + Express.js
-- MongoDB 
+- Spring Boot
+- Spring Data JPA
+- PostgreSQL 
 - JWT Authentication
 - S3 for image uploads
-
+- Spring AI
+- RBAC
 ### 🧪 DevOps & Deployment
 - Dockerized app
 - CI/CD with GitHub Actions
@@ -40,8 +42,8 @@
 ## 🛠️ Getting Started
 
 ### Prerequisites
-- Node.js & npm
-- MongoDB 
+- Spring Boot & Maven
+- PostgreSQL 
 - React
 - Docker
 
@@ -51,4 +53,4 @@ git clone https://github.com/bappaditya92/QuickKart.git
 cd QuickKart
 cd Backend - For backend
 cd Frontend - For Frontend
-npm install
+
